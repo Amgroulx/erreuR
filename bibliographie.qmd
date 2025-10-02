@@ -1,0 +1,17 @@
+---
+title: ""
+format: 
+  html:
+    toc: true
+    toc-title: "Annexe"
+    toc-location: left
+    toc-expand: true
+    toc-depth: 2
+    theme: cosmo
+    page-layout: full
+---
+
+:::{.navbar}
+[Accueil](index.html) |
+[Code](code.html) |
+:::
