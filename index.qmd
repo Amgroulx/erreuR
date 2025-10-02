@@ -9,12 +9,14 @@ format:
     toc-depth: 2
     theme: cosmo
     page-layout: full
+    margin-right: "50px"
 ---
 
-:::{.navbar}
-[Bibliographie](bibliographie.html) |
-[Code](code.html) |
+:::{.navbar .p-3}
+  <a href="bibliographie.html" class="me-4 ms-4">Bibliographie</a>
+  <a href="code.html" class="me-4 ms-4">Code</a>
 :::
+
 
 # Titre 1
 

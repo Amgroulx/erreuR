@@ -9,9 +9,11 @@ format:
     toc-depth: 2
     theme: cosmo
     page-layout: full
+    sidebar-width: "200px" 
+    margin-right: "50px"
 ---
 
-:::{.navbar}
-[Accueil](index.html) |
-[Bibliographie](bibliographie.html) |
+:::{.navbar .p-3}
+  <a href="index.html" class="me-4 ms-4">Accueil</a>
+  <a href="bibliographie.html" class="me-4 ms-4">Bibliographie</a>
 :::
