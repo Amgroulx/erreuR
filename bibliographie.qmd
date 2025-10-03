@@ -3,7 +3,7 @@ title: ""
 format: 
   html:
     toc: true
-    toc-title: "Annexe"
+    toc-title: "Bibliographie"
     toc-location: left
     toc-expand: true
     toc-depth: 2
@@ -17,3 +17,53 @@ format:
   <a href="index.html" class="me-4 ms-4">Accueil</a>
   <a href="code.html" class="me-4 ms-4">Code</a>
 :::
+
+# Bibliographie
+
+## À lire en priorité
+
+* Manovich, L. (2001). The language of new media. MIT Press.  
+  Bonenfant : P 96 T42 M285 2001 (3e étage - 2D)
+  
+* Bense, M. (2007). Aesthetica : Introduction à la nouvelle esthétique. Éd. du Cerf.  
+  Bonenfant : BH 39 B474 2007 F (5e étage - 15D)
+  
+* Moles, A. A. (1972). Théorie de l’information et perception esthétique (Nouv. ed). Denoël/Gonthier.  
+  Bonenfant : BH 221 F84 M719 1972 (5e étage - 15D)
+  
+
+## Ouvrages de référence sur le traitement de l'image numérique
+
+* Gonzalez, R. C., & Woods, R. E. (2008). Digital image processing (Third edition). Pearson Prentice Hall.
+
+
+## Essais sur l'image numérique
+
+* Manovich, L. (2001). The language of new media. MIT Press.
+* Mitchell, W. J. (1992). The reconfigured eye : Visual truth in the post-photographic era. The MIT Press. 
+* Cubitt, S. (1998). Digital Aesthetics. SAGE Publications.
+* Plant, S. (1998). Zeros + ones: Digital women + the new technoculture. Fourth Estate.
+* Essinger, J. (2004). Jacquard’s web : How a hand-loom led to the birth of the information age. Oxford University Press.
+
+
+## Essais sur l'art numérique et génératif
+
+* Bense, M. (2007). Aesthetica : Introduction à la nouvelle esthétique. Éd. du Cerf
+* Galanter, P. (2003). What is Generative Art ? Complexity Theory as a Context for Art Theory.
+* Moles, A. A. (1972). Théorie de l’information et perception esthétique (Nouv. ed). Denoël/Gonthier.
+* Rosen, M. & Zentrum für Kunst und Medientechnologie Karlsruhe (Éds.). (2011). A little-known story about a movement, a magazine, and the computer’s arrival in art : New Tendencies and Bit International, 1961 - 1973. MIT Press.
+* Galerija suvremene umjetnosti. (1968–1972). Bit International. Zagreb: Galerija suvremene umjetnosti.
+
+
+## Essais et ouvrages de référence sur la techtonique
+
+* Hegel, G. W. F., & Jankélévitch, S. (1979). Esthétique. Flammarion.
+* Semper, G. (2004). Style in the technical and tectonic arts : Or, practical aesthetics. Getty research Institute.
+* Semper, G., Châtelet, A.-M., Gnehm, M., & Biétry, L. (2020). Gottfried Semper : Écrits sur l’architecture. Infolio.
+
+
+## Autres / incontournables
+
+* Bertalanffy, L. von. (1969). General system theory foundations, development, applications. G. Braziller.
+* Brunn, B., & Posenenske, C. (Éds.). (2013). Charlotte Posenenske : Manifesto (1. Aufl). DISTANZ Verl.
+* Semper, G., Kalinowski, I., & Thibault, E. (2022). L’art textile. Editions B2.
