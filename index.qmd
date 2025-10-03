@@ -22,7 +22,9 @@ format:
 
 Ce projet de recherche a pour but d'explorer le potentiel pictural de l'interface graphique de R pour générer des oeuvres numériques.
 
+<!--
 Je remercie Conseil des arts et des lettres du Québec qui rend ce projet possible grâce à un financement dans le cadre du volet Exploration et recherche en arts numériques.
+-->
 
 ## Images, empreintes et supports
 
