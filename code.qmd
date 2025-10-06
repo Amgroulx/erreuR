@@ -3,7 +3,7 @@ title: ""
 format: 
   html:
     toc: true
-    toc-title: "Annexe"
+    toc-title: "Code"
     toc-location: left
     toc-expand: true
     toc-depth: 2
