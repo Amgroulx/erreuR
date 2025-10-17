@@ -1,0 +1,14 @@
+---
+title: ""
+lang: fr
+reference-section-title: "Cadre théorique du projet"
+bibliography: cadretheorique.json   # auto-export Zotero
+csl: apa.csl
+nocite: |
+  @*
+format:
+  html:
+    standalone: false 
+    self-contained: false
+    toc: false
+---

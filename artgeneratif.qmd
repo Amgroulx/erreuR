@@ -1,0 +1,14 @@
+---
+title: ""
+lang: fr
+bibliography: data/artgeneratif.json
+csl: data/apa.csl
+nocite: |
+  @*
+format:
+  html:
+    standalone: false
+    toc: false
+---
+
+## Art génératif et théorie de l'information

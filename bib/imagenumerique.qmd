@@ -1,0 +1,14 @@
+---
+title: ""
+lang: fr
+reference-section-title: "Image numérique (arts visuels)"
+bibliography: imagenumerique.json   # auto-export Zotero
+csl: apa.csl
+nocite: |
+  @*
+format:
+  html:
+    standalone: false 
+    self-contained: false
+    toc: false
+---
