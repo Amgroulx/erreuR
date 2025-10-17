@@ -1,5 +1,13 @@
 ---
 title: ""
+project:
+  watch:
+    - bib/
+reference-section-title: "Références"
+bibliography: bib/erreuR.json   # auto-export Zotero
+csl: bib/apa.csl
+nocite: |
+  @*
 format: 
   html:
     grid:
@@ -14,25 +22,17 @@ format:
     theme: cosmo
     page-layout: full
     
-pre-render:
-  - bib/uniquify-refs.lua
-  
-include-after-body:
-  - bib/artgeneratif.html
-  - bib/cadretheorique.html
-  - bib/imagenumerique.html
-  - bib/textileinfo.html
 ---
-
 
 :::{.navbar .p-3}
   <a href="index.html" class="me-4 ms-4">Accueil</a>
+  <a href="bibliographie.html" class="me-4 ms-4">Bibliographie par thème</a>
   <a href="code.html" class="me-4 ms-4">Code</a>
 :::
 
-# Bibliographie
+# Bibliographie en ordre alphabétique d'auteurs
 
-Cette bibliographie est mise à jour automatiquement à partir de Zotero.
+Cette bibliographie est mise à jour automatiquement à partir de Zotero à chaque *push*.
 
 
 

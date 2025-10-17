@@ -13,7 +13,8 @@ format:
 ---
 
 :::{.navbar .p-3}
-  <a href="bibliographie.html" class="me-4 ms-4">Bibliographie</a>
+  <a href="bibliographie_zotero.html" class="me-4 ms-4">Bibliographie par auteur</a>
+  <a href="bibliographie.html" class="me-4 ms-4">Bibliographie par thème</a>
   <a href="code.html" class="me-4 ms-4">Code</a>
 :::
 

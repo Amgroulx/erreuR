@@ -17,45 +17,56 @@ format:
 ---
 
 ::: {.navbar .p-3}
-<a href="index.html" class="me-4 ms-4">Accueil</a> <a href="code.html" class="me-4 ms-4">Code</a>
+<a href="index.html" class="me-4 ms-4">Accueil</a>
+<a href="bibliographie_zotero.html" class="me-4 ms-4">Bibliographie par auteur</a>
+<a href="code.html" class="me-4 ms-4">Code</a>
 :::
 
-# Bibliographie
+# Bibliographie par thème
+Cette bibliographie est mise à jour manuellement. 
+Pour accéder à la version la plus à jour, voir la section <a href="bibliographie_zotero.html" >Bibliographie par auteur</a>.
 
-## À lire en priorité
 
--   Manovich, L. (2001). The language of new media. MIT Press.
+## Image numérique (Arts visuels)
 
--   Bense, M. (2007). Aesthetica : Introduction à la nouvelle esthétique. Éd. du Cerf.
+- Cubitt, S. (2014). The practice of light : A genealogy of visual technologies from prints to pixels. The MIT press.
+- Galloway, A. R. (2012). The interface effect. Polity Press.
+- Lind, M. (2013). Abstraction. Whitechapel gallery.
+- Manovich, L. (2001). The language of new media. The MIT Press.
 
-## Ouvrages de référence sur le traitement de l'image numérique
 
--   Gonzalez, R. C., & Woods, R. E. (2008). Digital image processing (Third edition). Pearson Prentice Hall.
+## Art génératif et théorie de l'information
 
-## Essais sur l'image numérique
+- Bense, M. (2007). Aesthetica : Introduction à la nouvelle esthétique. Éd. du Cerf.
+- Cook, S. (Éd.). (2016). Information (First published). Whitechapel Gallery, The MIT Press.
+- Galanter, P. (s. d.). What is Generative Art ? Complexity Theory as a Context for Art Theory.
+- Larsen, L. B. (Éd.). (2014). Networks : Theodor W. Adorno, Pamela Allara, Lawrence Alloway ... MIT Press.
+- Moles, A. A. (1972). Theorie de l’information et perception esthetique (Nouv. ed). Denoël/Gonthier.
+- Rosen, M. & Zentrum für Kunst und Medientechnologie Karlsruhe (Éds.). (2011). A little-known story about a movement, a magazine, and the computer’s arrival in art : New Tendencies and Bit International, 1961 - 1973. MIT Press.
+- Shanken, E. A. (Éd.). (2015). Systems. MIT Press [u.a.].
 
--   Manovich, L. (2001). The language of new media. MIT Press.
--   Mitchell, W. J. (1992). The reconfigured eye : Visual truth in the post-photographic era. The MIT Press.
--   Cubitt, S. (1998). Digital Aesthetics. SAGE Publications.
--   Plant, S. (1998). Zeros + ones: Digital women + the new technoculture. Fourth Estate.
--   Essinger, J. (2004). Jacquard’s web : How a hand-loom led to the birth of the information age. Oxford University Press.
 
-## Essais sur l'art numérique et génératif
+## Art textile et informatique
 
--   Bense, M. (2007). Aesthetica : Introduction à la nouvelle esthétique. Éd. du Cerf
--   Galanter, P. (2003). What is Generative Art ? Complexity Theory as a Context for Art Theory.
--   Moles, A. A. (1972). Théorie de l’information et perception esthétique (Nouv. ed). Denoël/Gonthier.
--   Rosen, M. & Zentrum für Kunst und Medientechnologie Karlsruhe (Éds.). (2011). A little-known story about a movement, a magazine, and the computer’s arrival in art : New Tendencies and Bit International, 1961 - 1973. MIT Press.
--   Galerija suvremene umjetnosti. (1968–1972). Bit International. Zagreb: Galerija suvremene umjetnosti.
+- Essinger, J. (2004). Jacquard’s web : How a hand-loom led to the birth of the information age (1. publ). Oxford University Press.
+- Plant, S. (1998). Zeros + ones : Digital women + the new technoculture. Fourth Estate.
 
-## Essais et ouvrages de référence sur la techtonique
 
--   Hegel, G. W. F., & Jankélévitch, S. (1979). Esthétique. Flammarion.
--   Semper, G. (2004). Style in the technical and tectonic arts : Or, practical aesthetics. Getty research Institute.
--   Semper, G., Châtelet, A.-M., Gnehm, M., & Biétry, L. (2020). Gottfried Semper : Écrits sur l’architecture. Infolio.
+## Traitement de l'image numérique (mathématiques/informatique)
 
-## Autres / incontournables
+- Dougherty, E. R., & Giardina, C. R. (1987). Matrix structured image processing. Prentice-Hall.
+- Gonzalez, R. C., & Woods, R. E. (2008). Digital image processing (Third edition). Pearson Prentice Hall.
+- Maître, H. (2003). Le traitement des images. Hermès Science Publications.
 
--   Bertalanffy, L. von. (1969). General system theory foundations, development, applications. G. Braziller.
--   Brunn, B., & Posenenske, C. (Éds.). (2013). Charlotte Posenenske : Manifesto (1. Aufl). DISTANZ Verl.
--   Semper, G., Kalinowski, I., & Thibault, E. (2022). L’art textile. Editions B2.
+
+## Cadre théorique du projet
+
+- Benjamin, W., & Underwood, J. A. (2008). The work of art in the age of mechanical reproduction. Penguin.
+- Bertalanffy, L. von, Laszlo, E., & Chabrol, J.-B. (1993). Théorie générale des systèmes. Dunod.
+- Brunn, B., & Posenenske, C. (Éds.). (2013). Charlotte Posenenske : Manifesto (1. Aufl). DISTANZ Verl.
+- Flusser, V. (2004). Pour une philosophie de la photographie. Circé.
+- Frampton, K., & Cava, J. (avec Graham Foundation for Advanced Studies in the Fine Arts). (1995). Studies in tectonic culture : The poetics of construction in nineteenth and twentieth century architecture. MIT Press.
+- Semper, G. (2004). Style in the technical and tectonic arts : Or, practical aesthetics. Getty research Institute.
+- Weibel, P. (2005). Beyond art : A third culture a comparative study in cultures, art and science in 20th century Austria and Hungary [exposition, Ludwig museum Budapest, October 17 - November 23, 1996. Neue Galerie Graz am Landesmuseum Joanneum, Austria, February 7 - March 30, 1997. MUKHA - Museum van hedebdaagse kunst, Antwerp, Belgium, September 19 - December 6, 1998]. Springer.
+- Wiener, N., Hill, D., & Mitter, S. (2019). Cybernetics : Or Control and communication in the animal and the machine (Reissue of the 1961 second edition). MIT Press.
+
